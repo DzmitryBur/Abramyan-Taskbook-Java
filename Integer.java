@@ -1,18 +1,18 @@
 public class Integer {
 
 	public static void main(String[] args) {
-		System.out.println("Задачи Integer");
+		System.out.println("Г‡Е•Г¤Е•Г·ДЌ Integer");
 		// Integer1
 //		int L, M;
 //		L = 345;
 //		M = L / 100;
-//		System.out.println("количество полных метров: " + M);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® ДЏГ®Г«Г­Е±Е‘ Д›ДєЕ€Д‘Г®Гў: " + M);
 
 		// Integer2
 //		int M, t;
 //		M = 42845;
 //		t = M / 1000;
-//		System.out.println("количество полных тонн: " + t);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® ДЏГ®Г«Г­Е±Е‘ Е€Г®Г­Г­: " + t);
 
 		// Integer4
 //		int A, B, O;
@@ -20,10 +20,10 @@ public class Integer {
 //		B = 2;
 //		O = A / B;
 //		if (B > A) {
-//			System.out.println("по условию задачи A больше B!!!");
+//			System.out.println("ДЏГ® ГіЕ„Г«Г®ГўДЌЕЈ Г§Е•Г¤Е•Г·ДЌ A ГЎГ®Г«ГјЕ™Дє B!!!");
 //		}
 //		else {
-//		System.out.println("количество отрезков B: " + O);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® Г®Е€Д‘ДєГ§Д™Г®Гў B: " + O);
 //		}
 
 		// Integer6
@@ -31,8 +31,8 @@ public class Integer {
 //		a = 57;
 //		d = a / 10;
 //		e = a % 10;
-//		System.out.println("количество десятков: " + d);
-//		System.out.println("количество единиц: " + e);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® Г¤ДєЕ„Л™Е€Д™Г®Гў: " + d);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® ДєГ¤ДЌГ­ДЌГ¶: " + e);
 
 		// Integer8
 //		int a, d, e, x, y;
@@ -41,14 +41,14 @@ public class Integer {
 //		e = a - d * 10;
 //		x = e;
 //		y = d;
-//		System.out.print("число наоборот: " + x);
+//		System.out.print("Г·ДЌЕ„Г«Г® Г­Е•Г®ГЎГ®Д‘Г®Е€: " + x);
 //		System.out.print(y);
 
 		// Integer9
 //		int a, d, e;
 //		a = 999;
 //		d = a / 100;
-//		System.out.println("количество сотен: " + d);
+//		System.out.println("Д™Г®Г«ДЌГ·ДєЕ„Е€ГўГ® Е„Г®Е€ДєГ­: " + d);
 
 		// Integer15
 //		int a, s, d, e, x, y, z;
@@ -80,13 +80,13 @@ public class Integer {
 //		int d, w, k; 
 //		d = 77;
 //		w = d % 7;
-//		System.out.println("номер дня недели К-того дня года: " + w);
+//		System.out.println("Г­Г®Д›ДєД‘ Г¤Г­Л™ Г­ДєГ¤ДєГ«ДЌ Д-Е€Г®ДѓГ® Г¤Г­Л™ ДѓГ®Г¤Е•: " + w);
 //		
 //		//Integer25
 //		int d, w, k; 
 //		d = 76;
 //		w = (d +3) % 7;
-//		System.out.println("номер дня недели К-того дня года: " + w);
+//		System.out.println("Г­Г®Д›ДєД‘ Г¤Г­Л™ Г­ДєГ¤ДєГ«ДЌ Д-Е€Г®ДѓГ® Г¤Г­Л™ ДѓГ®Г¤Е•: " + w);
 
 		// Integer29
 //		int A = 7, B = 5, C = 2, x, y, z, Sp, Sz, So;
@@ -96,29 +96,27 @@ public class Integer {
 //		z = x * y;
 //		Sz = z * C * C;
 //		So = Sp - Sz;
-//		System.out.println("Сторона прямоугольника А: " + A);
-//		System.out.println("Сторона прямоугольника B: " + B);
-//		System.out.println("Сторона квадрата C: " + C);
+//		System.out.println("ЕѓЕ€Г®Д‘Г®Г­Е• ДЏД‘Л™Д›Г®ГіДѓГ®Г«ГјГ­ДЌД™Е• Е”: " + A);
+//		System.out.println("ЕѓЕ€Г®Д‘Г®Г­Е• ДЏД‘Л™Д›Г®ГіДѓГ®Г«ГјГ­ДЌД™Е• B: " + B);
+//		System.out.println("ЕѓЕ€Г®Д‘Г®Г­Е• Д™ГўЕ•Г¤Д‘Е•Е€Е• C: " + C);
 //		if (C > A) {
-//			System.out.println("введите целое значение стороны квадрата меньше стороны прямоугольника");
+//			System.out.println("ГўГўДєГ¤ДЌЕ€Дє Г¶ДєГ«Г®Дє Г§Г­Е•Г·ДєГ­ДЌДє Е„Е€Г®Д‘Г®Г­Е± Д™ГўЕ•Г¤Д‘Е•Е€Е• Д›ДєГ­ГјЕ™Дє Е„Е€Г®Д‘Г®Г­Е± ДЏД‘Л™Д›Г®ГіДѓГ®Г«ГјГ­ДЌД™Е•");
 //		} else {
-//			System.out.println("Количество полных квадратов: " + z);
+//			System.out.println("ДГ®Г«ДЌГ·ДєЕ„Е€ГўГ® ДЏГ®Г«Г­Е±Е‘ Д™ГўЕ•Г¤Д‘Е•Е€Г®Гў: " + z);
 //		}
 //		if (C > B) {
-//			System.out.println("введите целое значение стороны квадрата меньше стороны прямоугольника");
+//			System.out.println("ГўГўДєГ¤ДЌЕ€Дє Г¶ДєГ«Г®Дє Г§Г­Е•Г·ДєГ­ДЌДє Е„Е€Г®Д‘Г®Г­Е± Д™ГўЕ•Г¤Д‘Е•Е€Е• Д›ДєГ­ГјЕ™Дє Е„Е€Г®Д‘Г®Г­Е± ДЏД‘Л™Д›Г®ГіДѓГ®Г«ГјГ­ДЌД™Е•");
 //		} else {
-//			System.out.println("Количество полных квадратов: " + z);
+//			System.out.println("ДГ®Г«ДЌГ·ДєЕ„Е€ГўГ® ДЏГ®Г«Г­Е±Е‘ Д™ГўЕ•Г¤Д‘Е•Е€Г®Гў: " + z);
 //		}
-//		System.out.println("Незанятая площадь прямоуголиника составляет: " + So);
+//		System.out.println("ГЌДєГ§Е•Г­Л™Е€Е•Л™ ДЏГ«Г®ЕЇЕ•Г¤Гј ДЏД‘Л™Д›Г®ГіДѓГ®Г«ДЌГ­ДЌД™Е• Е„Г®Е„Е€Е•ГўГ«Л™ДєЕ€: " + So);
 
 		// Integer30
 //		int Y = 100, C;
-//		//C = (Y + 99) / 100; // мой вариант
-//		C = (Y-1)/100+1; // вариант преподавателя
-//		System.out.println("Указанный год относится к веку: " + C);
+//		//C = (Y + 99) / 100; // Д›Г®Г© ГўЕ•Д‘ДЌЕ•Г­Е€
+//		C = (Y-1)/100+1; // ГўЕ•Д‘ДЌЕ•Г­Е€ ДЏД‘ДєДЏГ®Г¤Е•ГўЕ•Е€ДєГ«Л™
+//		System.out.println("Г“Д™Е•Г§Е•Г­Г­Е±Г© ДѓГ®Г¤ Г®Е€Г­Г®Е„ДЌЕ€Е„Л™ Д™ ГўДєД™Гі: " + C);
 
-		int d = 5, w;
-		w = d % 4;
-		System.out.println(w);
+
 	}
 }
